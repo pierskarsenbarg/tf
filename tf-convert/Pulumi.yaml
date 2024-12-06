@@ -1,0 +1,9 @@
+name: tf
+runtime: nodejs
+config:
+  port:baseUrl:
+    value: https://api.getport.io
+  port:clientId:
+    value: "1234"
+  port:secret:
+    value: "1234"
